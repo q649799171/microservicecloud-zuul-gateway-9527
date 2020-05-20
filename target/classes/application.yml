@@ -17,7 +17,7 @@ zuul:
     mydept.serviceId: microservicecloud-dept 
     mydept.path: /mydept/**
   ignored-services: microservicecloud-dept     #  "*"忽略所有服务
-  prefix: /zhm  #设置统一前缀
+  prefix: /zhm  #设置统一前缀sss
 
 info: 
   app.name: zhm-microservicecloud
